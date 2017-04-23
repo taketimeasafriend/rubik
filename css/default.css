@@ -13,6 +13,7 @@ body {
     background-color: #ddd;
     padding: 10px;
     border-radius: 12px;
+    text-align: center;
 }
 
 .banner {
@@ -42,18 +43,19 @@ body {
 
 .info {
     float: right;
-    width: 200px;
-    margin: 30px 30px 0 20px;
-    padding: 5px 20px;
+    width: 120px;
+    margin-top: 20px;
+    padding: 0px 20px 10px;
     font-size: 0.85em;
     border: 1px solid #000;
     border-radius: 10px;
+    text-align: left;
 }
 
 .info h1 {
     text-align: center;
 }
 
-.ztype {
-    margin: 20px 0 0 100px;
+.rubik {
+    margin: 20px 0 0 20px;
 }
